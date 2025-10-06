@@ -9,11 +9,11 @@ Visual representation of data using a bar chart for easy comparison.
 4.Interactive Bar Chart:The chart allows users to quickly see which metrics are higher or lower compared to others, helping them maintain a balanced daily routine.
 5.Cross-Platform Support:The app works seamlessly on mobile devices and web browsers using Flutter.
 
-# App Screenshots
+# App Screenshots:
 ![Home Screen](Screenshot 2025-10-07 010946.png)
 ![Summary Screen](Screenshot 2025-10-07 010958.png)
 
-#Commands to run the project
+#Commands to run the project:
  cd health_tracker
  flutter run -d chrome
  
