@@ -14,7 +14,7 @@ Visual representation of data using a bar chart for easy comparison.
 ![Summary Screen](Screenshot 2025-10-07 010958.png)
 
 #Commands to run the project:
- cd health_tracker
+ cd health_tracker,
  flutter run -d chrome
  
 This project is a starting point for a Flutter application.
